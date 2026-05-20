@@ -74,12 +74,9 @@ Each persons will pay = 12550
 
 ## 📸 Project Screenshot
 
-Add your project screenshot here.
+## 📸 Project Screenshot
 
-Example:
-
-```md
-![Project Screenshot](screenshot.png)
+![Hostel Rent Calculator Screenshot](Screenshot%202026-05-20%20143415.png)
 ```
 
 ---
